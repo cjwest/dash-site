@@ -25,4 +25,6 @@ dependencies[] = search
 dependencies[] = shortcut
 dependencies[] = strongarm
 dependencies[] = taxonomy
+dependencies[] = tas
+dependencies[] = tas_agent
 dependencies[] = views
