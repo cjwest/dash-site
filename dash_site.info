@@ -7,9 +7,11 @@ dependencies[] = block
 dependencies[] = contextual
 dependencies[] = ctools
 dependencies[] = dash
+dependencies[] = dash_default_roles
 dependencies[] = dblog
 dependencies[] = entity
 dependencies[] = encrypt
+dependencies[] = features
 dependencies[] = field_ui
 dependencies[] = file
 dependencies[] = help
@@ -27,4 +29,10 @@ dependencies[] = strongarm
 dependencies[] = taxonomy
 dependencies[] = tas
 dependencies[] = tas_agent
+dependencies[] = tas_agent_administration
+dependencies[] = token
 dependencies[] = views
+
+;Development modules
+dependencies[] = views_ui
+dependencies[] = devel
