@@ -36,3 +36,7 @@ dependencies[] = views
 ;Development modules
 dependencies[] = views_ui
 dependencies[] = devel
+dependencies[] = feeds
+dependencies[] = feeds_tamper
+dependencies[] = job_scheduler
+dependencies[] = feeds_tamper_ui
