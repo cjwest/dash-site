@@ -40,3 +40,4 @@ dependencies[] = feeds
 dependencies[] = feeds_tamper
 dependencies[] = job_scheduler
 dependencies[] = feeds_tamper_ui
+dependencies[] = tas_agent_feed_importers
