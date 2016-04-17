@@ -12,6 +12,7 @@
  * @see system_install()
  */
 function dash_site_install() {
+  $default_theme = variable_get('theme_default', 'open_framework');
   // Add text formats.
   $filtered_html_format = array(
     'format' => 'filtered_html',

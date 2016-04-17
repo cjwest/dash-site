@@ -9,6 +9,7 @@ dependencies[] = ctools
 dependencies[] = dash
 dependencies[] = dash_default_roles
 dependencies[] = dblog
+
 dependencies[] = entity
 dependencies[] = encrypt
 dependencies[] = features
@@ -34,10 +35,12 @@ dependencies[] = token
 dependencies[] = views
 
 ;Development modules
-dependencies[] = views_ui
+
 dependencies[] = devel
+dependencies[] = diff
 dependencies[] = feeds
 dependencies[] = feeds_tamper
-dependencies[] = job_scheduler
 dependencies[] = feeds_tamper_ui
+dependencies[] = job_scheduler
 dependencies[] = tas_agent_feed_importers
+dependencies[] = views_ui
